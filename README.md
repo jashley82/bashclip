@@ -1,0 +1,2 @@
+# bashclip
+analyze bash history
